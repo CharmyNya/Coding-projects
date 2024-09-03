@@ -1,10 +1,3 @@
-/*
-Your name:Nathan Garcia
-Date started:6/24/2024
-Modification history: NA
-Remaining tasks: NA
-Notes: NA
-*/
 import java.util.*;
 public class Lab6_Problem1
 {
