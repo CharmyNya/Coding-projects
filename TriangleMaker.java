@@ -12,12 +12,12 @@ public class Lab6_Problem1
    while (!cin.hasNextInt())
    {
      System.out.println("Not a valid number");
-     System.out.println("Only integers between 1 and 50: ");
+     System.out.println("Only integers between 1 and 100: ");
      cin.next();
    }
    iNum = cin.nextInt();
    }
-   while (iNum <1 || iNum >50);
+   while (iNum <1 || iNum >100);
    {
    fvDrawTriangle(iNum);
    }
@@ -35,7 +35,7 @@ public class Lab6_Problem1
     {
       for(iColumns = 1; iColumns <= iRows; iColumns++)
       {
-        System.out.print("*");
+        System.out.print("/");
       }
       System.out.println();
     }
