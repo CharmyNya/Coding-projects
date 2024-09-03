@@ -1,6 +1,3 @@
-/*
-Your name: Nathan Garcia
-*/
 import java.util.*; 
 public class Lab4_Problem2
 {
