@@ -27,7 +27,7 @@ public class Lab4_Problem2
          System.out.println("Enter your score between 0-100: ");
         }
       }
-      catch (Exception e)
+      catch (InputException e)
       {
         System.out.println("invalid input, please enter a valid integer.");
         cin.next();
